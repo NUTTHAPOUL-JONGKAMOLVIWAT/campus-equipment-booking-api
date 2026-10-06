@@ -11,7 +11,7 @@ A lightweight, robust backend REST API for reserving campus equipment (projector
   ```text
   https://campus-equipment-booking-api.nutjon.workers.dev/api
   ```
-* **Source Code Repository:** `[ADD GITHUB/GITLAB URL]`
+* **Source Code Repository:** https://github.com/NUTTHAPOUL-JONGKAMOLVIWAT/campus-equipment-booking-api
 * **Status:** Verified and live in production on Cloudflare Workers + Cloudflare D1.
 
 ---
@@ -38,7 +38,7 @@ A lightweight, robust backend REST API for reserving campus equipment (projector
 
 1. **Clone the repository:**
    ```bash
-   git clone [ADD GITHUB/GITLAB URL]
+   git clone https://github.com/NUTTHAPOUL-JONGKAMOLVIWAT/campus-equipment-booking-api
    cd "Midterm Practical Lab Test"
    ```
 
